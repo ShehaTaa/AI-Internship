@@ -1,2 +1,2 @@
 # AI_Internship
-AI internship Tasks
+UmedMi AI internship
